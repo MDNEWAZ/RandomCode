@@ -1,0 +1,16 @@
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.exe
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.deps.json
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.runtimeconfig.json
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.runtimeconfig.dev.json
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.dll
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\ref\TestCode.dll
+A:\Project\RandomCode\TestCode\TestCode\bin\Debug\net5.0\TestCode.pdb
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.csproj.AssemblyReference.cache
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.AssemblyInfoInputs.cache
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.AssemblyInfo.cs
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.csproj.CoreCompileInputs.cache
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.dll
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\ref\TestCode.dll
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.pdb
+A:\Project\RandomCode\TestCode\TestCode\obj\Debug\net5.0\TestCode.genruntimeconfig.cache
